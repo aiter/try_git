@@ -43,6 +43,7 @@ id sem consectetuer libero luctus adipiscing.
 1.	python
 1.	object-c
 
+[id123]: http://example.com/  "Optional Title Here"
 列表项目可以包含多个段落
 
 1.  This is a list item with two paragraphs. Lorem ipsum dolor
@@ -118,4 +119,7 @@ Here is an example of AppleScript:
 ---------
 
 This is [Markdown语法](http://wowubuntu.com/markdown/ "使用语法") inline link.
+
 [Markdown语法](http://wowubuntu.com/markdown/) has no title attribute.
+
+This is [列表项目可以包含多个段落] [id123] reference-style link.
