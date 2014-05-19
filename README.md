@@ -128,5 +128,5 @@ This is [列表项目可以包含多个段落] [idmarkdown] reference-style link
 -----------
 *single asterisks*
 
-如果要标记一小段行内代码，你可以用反引号把它包起来（`），例如：
+如果要标记一小段行内代码，你可以用反引号把它包起来（\`），例如：
 Use the `printf()` function.
