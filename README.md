@@ -111,5 +111,6 @@ Here is an example of AppleScript:
 
 分隔线上
 
+****
 ----
 分隔线下
