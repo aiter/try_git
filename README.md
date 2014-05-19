@@ -73,3 +73,8 @@ only required to indent the first line. Lorem ipsum dolor
 sit amet, consectetuer adipiscing elit.
 
 2.   Another item in the same list.
+如果要在列表项目内放进引用，那&lt;就需要缩进：
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
