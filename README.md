@@ -94,3 +94,14 @@ sit amet, consectetuer adipiscing elit.
 换句话说，也就是在行首出现数字-句点-空白，要避免这样的状况，你可以在句点前面加上反斜杠。
 
 1986\. What a great season.
+
+代码区块
+---------
+
+这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除，例如：
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
