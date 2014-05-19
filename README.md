@@ -111,6 +111,11 @@ Here is an example of AppleScript:
 
 分隔线上
 
-****
 ----
 分隔线下
+
+链接
+---------
+
+This is [Markdown语法](http://wowubuntu.com/markdown/ "使用语法") inline link.
+[Markdown语法](http://wowubuntu.com/markdown/) has no title attribute.
