@@ -108,3 +108,8 @@ Here is an example of AppleScript:
     <div class="footer">
         &copy; 2004 Foo Corporation
     </div>
+
+分隔线上
+
+----
+分隔线下
