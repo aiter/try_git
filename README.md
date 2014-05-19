@@ -81,6 +81,7 @@ sit amet, consectetuer adipiscing elit.
     > This is a blockquote
     > inside a list item.
 
+
 如果要放代码区块的话，该区块就需要缩进两次，也就是 8 个空格或是 2 个制表符：
 
 *   一列表项包含一个列表区块：
@@ -88,3 +89,7 @@ sit amet, consectetuer adipiscing elit.
 		public static String getNameByEn(String enName){
 			return enNameMap.get(enName);
 		}
+
+
+换句话说，也就是在行首出现数字-句点-空白，要避免这样的状况，你可以在句点前面加上反斜杠。
+1986\. What a great season.
